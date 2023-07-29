@@ -1,3 +1,5 @@
+console.log("This is my copy...")
+
 module.exports = {
   modules: {
     '@apostrophecms/error': {},
